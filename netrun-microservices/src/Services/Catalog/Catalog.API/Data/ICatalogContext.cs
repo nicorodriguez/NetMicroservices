@@ -7,4 +7,5 @@ namespace Catalog.API.Data
     {
         IMongoCollection<Product> Products { get; }
     }
+
 }
